@@ -1,20 +1,4 @@
-.entry-content {
-  padding-left: 15px !important;
-  padding-right: 15px !important;
-}
 
-header {
-  visibility: hidden !Important;
-  height: 0px !important;
-  padding: 0px !important;
-}
-
-.sidebar {
-}
-
-.entry-title {
-   visibility: hidden !Important;
-}
 
 .container-fluid {
   margin-left: 2% !important;

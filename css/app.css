@@ -1,0 +1,28 @@
+.agility-logo {
+  margin-top: 25px;
+  width: 100%;
+}
+.site-header {
+  margin: 0px !important;
+}
+
+.site-branding, .site-title, .site-description {
+  visibility: hidden !Important;
+  height: 0px !important;
+}
+
+.entry-content {
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+
+header {
+  visibility: hidden !Important;
+  height: 0px !important;
+  padding: 0px !important;
+}
+
+
+.entry-title {
+   visibility: hidden !Important;
+}
