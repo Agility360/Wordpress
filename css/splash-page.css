@@ -1,13 +1,13 @@
 .radial-gradient {
-  background: -webkit-radial-gradient(red, green, blue); /* Safari 5.1- 6.0 */
-  background: -o-radial-gradient(red, green, blue); /* Opera 11.6-12.0 */
-  background: -moz-radial-gradient(red, green, blue); /* Firefox 3.6-15 */
-  background: radial-gradient(red, green, blue); /* Standard syntax */
+  background: -webkit-radial-gradient(#fff, #fff, #fff, #eee, #eee, #eee, #ddd, #ddd); /* Safari 5.1- 6.0 */
+  background: -o-radial-gradient(#fff, #fff, #fff, #eee, #eee, #eee, #ddd, #ddd); /* Opera 11.6-12.0 */
+  background: -moz-radial-gradient(#fff, #fff, #fff, #eee, #eee, #eee, #ddd, #ddd); /* Firefox 3.6-15 */
+  background: radial-gradient(#fff, #fff, #fff, #eee, #eee, #eee, #ddd, #ddd); /* Standard syntax */
 }
 
 
 img {
-  width: 20%;
+  width: 50%;
  }
 
 .row {
