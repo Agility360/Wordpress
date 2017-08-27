@@ -1,7 +1,36 @@
+header {
+  visibility: hidden !important;
+  height: 0px !important;
+  padding: 0px !important;
+}
+
 .sidebar {
    margin-top: 350px;
 }
 
 .entry-title {
    visibility: hidden !Important;
+}
+
+.container-fluid {
+  margin-left: 2% !important;
+  margin-right: 2% !important;
+}
+
+.container {
+  width: 100% !important;
+}
+
+.jumbotron {
+  margin-top: 50px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+table {
+  max-width: 95% !important;
 }
