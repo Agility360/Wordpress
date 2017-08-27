@@ -1,11 +1,15 @@
+.entry-content {
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+}
+
 header {
-  visibility: hidden !important;
+  visibility: hidden !Important;
   height: 0px !important;
   padding: 0px !important;
 }
 
 .sidebar {
-   margin-top: 350px;
 }
 
 .entry-title {
@@ -15,10 +19,6 @@ header {
 .container-fluid {
   margin-left: 2% !important;
   margin-right: 2% !important;
-}
-
-.container {
-  width: 100% !important;
 }
 
 .jumbotron {
